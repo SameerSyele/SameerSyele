@@ -29,7 +29,7 @@
 
 I'm a final-year **B.Tech Computer Science & Business Systems** student at **Ramrao Adik Institute of Technology, Navi Mumbai** (CGPA: **8.01**), building at the intersection of **AI, data engineering, and software development**.
 
-My work spans end-to-end ML pipelines, AI-powered web applications, and data analytics systems — not just notebooks. I'm drawn to problems where intelligent systems can create measurable, real-world impact.
+My work spans end-to-end ML pipelines, AI-powered web applications, and data analytics systems, not just notebooks. I'm drawn to problems where intelligent systems can create measurable, real-world impact.
 
 Beyond technical work, I serve as **Co-Head of TPC-RAIT**, managing campus placements for **1,000+ students**, and as **IEEE Chapter Convener** — experiences that have sharpened my ability to lead, communicate, and deliver under pressure.
 
@@ -37,12 +37,12 @@ I'm actively seeking **AI/ML, Data Engineering, and Backend Development** intern
 
 ```python
 sameer = {
-    "location"    : "Mumbai, India 🇮🇳",
-    "education"   : "B.Tech CSBS — RAIT, Navi Mumbai",
-    "cgpa"        : 8.01,
-    "interests"   : ["Generative AI", "Agentic AI", "MLOps", "Data Engineering"],
-    "status"      : "Open to Internships & Entry-Level Roles",
-    "superpower"  : "Turning messy data into intelligent systems"
+    "Location"    : "Mumbai, India 🇮🇳",
+    "Education"   : "B.Tech CSBS — RAIT, Navi Mumbai",
+    "CGPA"        : 8.01,
+    "Interests"   : ["Generative AI", "Agentic AI", "MLOps", "Data Engineering"],
+    "Status"      : "Open to Internships & Entry-Level Roles",
+    "Superpower"  : "Turning messy data into intelligent systems"
 }
 ```
 
@@ -110,8 +110,6 @@ Engineered a real-time anomaly detection pipeline using Isolation Forest on clou
 
 **Stack:** `Python` `Isolation Forest` `FastAPI` `Streamlit` `SQLite`
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/SameerSyele/cloud-anomaly-detection)
-&nbsp;
 ![Status](https://img.shields.io/badge/Status-Completed-6366f1?style=flat-square)
 &nbsp;
 ![Date](https://img.shields.io/badge/Feb_2026-0d1117?style=flat-square&logo=googlecalendar&logoColor=6366f1)
@@ -125,8 +123,6 @@ Built a time-series forecasting engine using regression models and grid-search h
 
 **Stack:** `Python` `Scikit-Learn` `Pandas` `Time-Series` `Flask`
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/SameerSyele/cost-forecasting-system)
-&nbsp;
 ![Status](https://img.shields.io/badge/Status-Completed-6366f1?style=flat-square)
 &nbsp;
 ![Date](https://img.shields.io/badge/Nov_2025-0d1117?style=flat-square&logo=googlecalendar&logoColor=6366f1)
@@ -140,8 +136,6 @@ Designed a hybrid NLP matching engine combining a rule-based system with a Sciki
 
 **Stack:** `Python` `NLP` `Scikit-Learn` `OpenAI API` `Flask` `SQLite`
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/SameerSyele/ai-resume-analyzer)
-&nbsp;
 ![Status](https://img.shields.io/badge/Status-Active-22c55e?style=flat-square)
 &nbsp;
 ![Date](https://img.shields.io/badge/Aug_2025-0d1117?style=flat-square&logo=googlecalendar&logoColor=6366f1)
